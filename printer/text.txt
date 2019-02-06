@@ -1,0 +1,10 @@
+^XA
+^CFA,45
+^FO50,30^FDNicolas Baudon^FS
+^CFA,30 
+^FO50,80^FDProline - CEO^FS
+^FO50,120^FD2612548472^FS
+^FO50,160^FDnicobaudon01@gmail.com^FS
+^FO50,110^BY2,2,95^BQ,2,5
+^FH_^FDHM,ANicolas Baudon/Proline - CEO/2612548472/nicobaudon01@gmail.com^FS
+^XZ
