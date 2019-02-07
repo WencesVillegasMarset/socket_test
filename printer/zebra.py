@@ -4,7 +4,6 @@ import re
 
 import os
 import sys
-import win32print
 
 
 def clean_string(dirty_string):
